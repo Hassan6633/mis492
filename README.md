@@ -1,12 +1,12 @@
 # mis492
 ## assignments:
 
-|     week                  |      link            |
-|--------------------------:|:---------------------|
-|[week1](assignment1.ipynb)
+|     week                  |      link                   |
+|--------------------------:|:----------------------------|
+|   1                       |[notebook](assignment1.ipynb)|
 
-|[week2](assignment2.ipynb)
+|   2                       |[notebook](assignment2.ipynb)|
 
-|[week3](assignment3.ipynb)
+|   3                       |[notebook](assignment3.ipynb)|
 
-|[week5](week5_hw.ipynb)
+|   4                       |[notebook](week5_hw.ipynb)   |
