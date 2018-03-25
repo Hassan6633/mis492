@@ -8,3 +8,4 @@
 | 3 | assignment 3   |[notebook](assignment3.ipynb)|
 | 5 | assignment 4   |[notebook](week5_hw.ipynb) - [slides](week5_hw.slides.html) - [pdf](week5_hw.pdf)|
 | 6 | assignment 5   |[notebook](assignment6.ipynb)|
+| 7 | assignment 7   |[notebook](assignment7.ipynb)|
