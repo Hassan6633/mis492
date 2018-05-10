@@ -10,3 +10,7 @@
 | 6 | assignment 5   |[notebook](assignment6.ipynb)|
 | 7 | assignment 7   |[notebook](assignment7.ipynb)|
 | 8 | assignment 9   |[notebook](movies.ipynb) - [pdf](movies.pdf)| 
+| 9 | final phase 1  |[pdf](final.pdf)             |
+| 10| final phase 2  |[notebook collect](phase2.ipynb) - [notebook merge](merge_data.ipynb)|
+| 11| final phase 3  |[notebook followers](phase3_followers.ipynb) - [pdf](phase3_followers.pdf) - [notebook tweets](phase3_tweets.ipynb) - [pdf](phase3_tweets.pdf)|
+| 12| final phase 4  |[notebook](final_project.ipynb) - [pdf](final_project.pdf) - [slides](final_project.slides.html)|
